@@ -8,7 +8,7 @@ Cesar Cano de Oliveira course id: getdata-032
 - each record has mean and standard deviation of each variable listed in features.txt file for each Activity and Subject
 
 ## The script
-To generate the output dataset from the raw data you have to execute the file script.R.
+To generate the output dataset from the raw data you have to execute the file run_analysis.R.
 The script will then generate the output dataset in the file named tidy.txt
 The script works as follows:
 - it reads the train and the test data. train/*.txt and test/*.txt
